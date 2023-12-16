@@ -1,0 +1,4 @@
+﻿  jak210005.program1.cpp
+C:\Users\jkulc\Desktop\C++ Programs\Assignment1\Program1\jak210005.program1.cpp(105,31): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment1\Program1\jak210005.program1.cpp(122,31): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+  Program1.vcxproj -> C:\Users\jkulc\Desktop\C++ Programs\Assignment1\Program1\x64\Debug\Program1.exe

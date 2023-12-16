@@ -1,0 +1,37 @@
+﻿  jak210005.program3.cpp
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,25): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,25): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,32): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,39): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,39): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,46): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,46): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,53): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,53): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,60): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,60): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,67): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,67): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,73): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,73): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,80): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(16,80): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,7): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,7): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,14): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,21): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,28): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,35): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,35): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,42): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,42): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,49): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,49): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,56): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(17,56): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\jak210005.program3.cpp(212,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Program 3.vcxproj -> C:\Users\jkulc\Desktop\C++ Programs\Assignment3\Program 3\x64\Debug\Program 3.exe
